@@ -1,19 +1,19 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sentiments in Twitter](https://github.com/ktdawood/Sentiments-in-Twitter)
+<img src="images/twitter.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Electronic Product Recommendations](https://github.com/ktdawood/Electronic-Product-Recommentation)
+<img src="images/electronic-products.png?raw=true"/>
+
+---
+[Credit Card Customer Segmentation](https://github.com/ktdawood/Customer-Segmentation)
+<img src="images/clustering.png?raw=true"/>
 
 ---
 
