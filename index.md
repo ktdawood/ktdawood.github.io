@@ -2,7 +2,7 @@
 
 ---
 
-### Projects 
+## Projects 
 
 [Sentiments in Twitter](https://github.com/ktdawood/Sentiments-in-Twitter)
 <img src="images/twitter.png?raw=true"/>
@@ -16,11 +16,12 @@
 <img src="images/clustering.png?raw=true"/>
 
 ---
-
+[Analysis of Google Playstore Apps](https://github.com/ktdawood/GooglePlayStore-EDA)
+<img src="images/apps.png?raw=true"/>
 
 ---
-
-
+[Analysis of Metal Bands by Nation](https://github.com/ktdawood/Metal-Bands-by-Nation)
+<img src="images/metal-bands.png?raw=true"/>
 
 
 ---
